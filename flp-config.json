@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "ZDEMO_BarCode.ZDEMO_BarCode.ZDEMO_BarCode",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#ZDEMO_BarCode-Display",
+        "navigationComponentName": "ZDEMO_BarCode.ZDEMO_BarCode",
+        "intentSemanticObject": "ZDEMO_BarCode",
+        "intentAction": "Display",
+        "html5ApplicationName": "zdemobarcode",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "33e96294-891e-41bf-a5e8-aa23c5f379a6"
+        ],
+        "contentPackages": [
+            "2a1792b1-111f-451d-9bee-052f0198ec0a"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Title",
+        "subtitle": "Subtitle",
+        "searchKeywords": "Title,Subtitle",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
